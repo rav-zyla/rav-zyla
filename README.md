@@ -1,4 +1,4 @@
-### Hi there 👋
+ ### Hi there 👋
 
 # Rafal - Angular Frontend Developer
 
@@ -69,25 +69,9 @@ Hi! My name is Rafal, and I am passionate about creating modern and responsive w
   <!-- Visual Studio Code -->
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="40"/>
-  </a>
-  <!-- REST API -->
-  <!-- Using a generic API icon as there's no official REST API logo -->
-  <a href="https://www.restapitutorial.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/postman/postman-icon.svg" alt="REST API" width="40"/>
-  </a>
   <!-- RxJS -->
   <a href="https://rxjs.dev" target="_blank" rel="noreferrer">
     <img src="https://rxjs.dev/assets/images/logos/Rx_Logo_S.png" alt="RxJS" width="40"/>
-  </a>
-  <!-- SignalR -->
-  <!-- Using a generic .NET icon as there's no official SignalR logo -->
-  <a href="https://dotnet.microsoft.com/apps/aspnet/signalr" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" alt="SignalR" width="40"/>
-  </a>
-  <!-- Zod -->
-  <!-- No official Zod icon found, using a placeholder -->
-  <a href="https://github.com/colinhacks/zod" target="_blank" rel="noreferrer">
-    <img src="https://placehold.it/80x80?text=Zod" alt="Zod" width="40"/>
   </a>
 </p>
 
